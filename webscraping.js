@@ -35,7 +35,6 @@ async function obtainDetailsProducts(){
         var x = await timer(i);
         console.log(x);
     }
-
 }
 
 function timer(page){
